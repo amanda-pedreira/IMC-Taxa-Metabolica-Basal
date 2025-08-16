@@ -13,8 +13,8 @@ O projeto foi uma forma divertida de relembrar fundamentos importantes, testar *
 ---
 
 ## 📌 Funcionalidades
-- 📏 Cálculo do **IMC** com base em peso e altura   
-- ⚠️ Validações de formulário para dados incorretos ou inválidos  
-- 💬 Mensagens informativas e alertas coloridos de acordo com o resultado  
-- 📱 Layout **responsivo** com Bootstrap  
+-  Cálculo do **IMC** com base em peso e altura   
+-  Validações de formulário para dados incorretos ou inválidos  
+-  Mensagens informativas e alertas coloridos de acordo com o resultado  
+-  Layout **responsivo** com Bootstrap  
 
