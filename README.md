@@ -1,4 +1,4 @@
-# 🧮 Calculadora de IMC
+# Calculadora de IMC
 
 Durante um período em que estava muito focada em front-end, senti falta de exercitar um pouco a **lógica de programação** e a parte “matemática” dos códigos. Então, resolvi criar essa pequena **calculadora de IMC**, para praticar conceitos de lógica e manipulação de dados.  
 
